@@ -1,0 +1,15 @@
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.deps.json
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.dll
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.pdb
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.dll
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/refint/SyntaxAndSyntaxSugarExercise.dll
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.pdb
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+/Users/lakephillips/Desktop/Repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/ref/SyntaxAndSyntaxSugarExercise.dll
